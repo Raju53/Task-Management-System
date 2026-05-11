@@ -66,7 +66,6 @@ The API is secured with Basic Authentication. Please use the following credentia
 
 Method | Endpoint | Description |
 | --- | --- | --- |
-
 | `GET` | `/tasks` | Retrieve all tasks |
 | `GET` | `/tasks/{id}` | Retrieve a specific task |
 | `POST` | `/tasks` | Create a new task |
