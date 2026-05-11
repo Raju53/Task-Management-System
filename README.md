@@ -94,6 +94,6 @@ You can view the database structure and data in real-time through the browser:
 **Running Tests**
 
 To execute the unit tests for the service layer:
-
-`./mvnw test`
-
+```
+./mvnw test
+```
