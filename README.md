@@ -44,12 +44,12 @@ cd task-management-system
 2. Build the project:
 
 ```
-./mvn clean install (or) ./mvnw clean install
+./mvnw clean install
 ```
 3. Run the application:
 
 ```
-./mvn spring-boot:run (or) ./mvnw spring-boot:run
+./mvnw spring-boot:run
 ```
 
 The server will start at http://localhost:8080.
@@ -94,10 +94,7 @@ You can view the database structure and data in real-time through the browser:
 **Running Tests**
 
 To execute the unit tests for the service layer:
-```
-./mvn test
-```
-*OR*
+
 ```
 ./mvnw test
 ```
