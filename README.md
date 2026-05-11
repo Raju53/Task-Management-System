@@ -37,7 +37,7 @@ Features
 1. Clone the repository:
 
 ```
-git clone <your-github-link>
+git clone https://github.com/Raju53/Task-Management-System.git
 cd task-management-system
 ```
 
