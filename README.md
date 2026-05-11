@@ -38,6 +38,7 @@ Features
 
 ```
 git clone https://github.com/Raju53/Task-Management-System.git
+cd task-management-system
 ```
 
 2. Build the project:
